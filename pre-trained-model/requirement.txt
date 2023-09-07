@@ -1,0 +1,2 @@
+streamlit==0.90.0
+vaderSentiment==3.3.2
