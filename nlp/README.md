@@ -1,4 +1,3 @@
-```markdown
 # Gujarati Tweet Sentiment Analysis
 
 This is a simple Python application for performing sentiment analysis on Gujarati tweets using a Naive Bayes classifier. The project consists of two main files: `model.py`, which contains the code for training the sentiment analysis model, and `app.py`, which is a Streamlit web application for interacting with the model.
