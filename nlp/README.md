@@ -6,7 +6,7 @@ This is a simple Python application for performing sentiment analysis on Gujarat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/harshbafnaa/sentiment-analysis.git
    cd your-repo
    ```
 
@@ -36,9 +36,9 @@ This is a simple Python application for performing sentiment analysis on Gujarat
 
 - `model.py`: Contains the code for training the sentiment analysis model.
 - `app.py`: Streamlit web application for interacting with the model.
-- `dataset/`: Directory for storing the dataset (replace `your_dataset.csv` with your dataset file).
-- `stopwords/`: Directory for storing custom Gujarati stopwords (replace `gujarati_stopwords.txt` with your stopwords file).
-- `model/`: Directory for saving the trained model and TF-IDF vectorizer.
+- `dataset/`: Directory for the dataset (replace `your_dataset.csv` with your dataset file).
+- `stopwords/`: Directory for custom Gujarati stopwords (replace `gujarati_stopwords.txt` with your stopwords file).
+- `model/`: Directory for trained model and TF-IDF vectorizer.
 
 ## Credits
 
@@ -50,9 +50,3 @@ This is a simple Python application for performing sentiment analysis on Gujarat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Replace `yourusername/your-repo` with the actual GitHub repository URL if applicable.
-
-In this `README.md` template, you should provide clear instructions for installing and running your project, explain the directory structure, give credit to any libraries or tools you used, and specify the project's license.
-
-Make sure to customize it to fit your project's specific details and requirements.
