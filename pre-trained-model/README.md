@@ -56,4 +56,4 @@ This is a simple web application built using [Streamlit](https://streamlit.io/) 
 
 ## Credits
 
-- The sentiment analysis is powered by the VADER sentiment analysis tool.
+This project was created by [Harsh Bafna](https://github.com/harshbafnaa).
