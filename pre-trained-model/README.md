@@ -18,7 +18,7 @@ This is a simple web application built using [Streamlit](https://streamlit.io/) 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/harshbafnaa/sentiment-analysis/pre-trained-model.git
+   git clone https://github.com/harshbafnaa/sentiment-analysis/tree/main/pre-trained-model.git
    ```
 
 2. Navigate to the project directory:
