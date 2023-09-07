@@ -52,7 +52,8 @@ The sentiment analysis model was trained on a dataset of Gujarati text with sent
 
 ## Model
 
-The trained model is saved in the `model/indic_bert_model.pkl` file. You can use this model for sentiment analysis tasks related to Gujarati text.
+You can download the trained model from [Drive](https://drive.google.com/file/d/1V83jawEndwS0FtqVv9Te43ck8tiREB5N/view?usp=drive_link) and place it in model folder. You can use this model for sentiment analysis tasks related to Gujarati text.
+
 
 ## Web Application
 
@@ -65,5 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 This project was created by [Harsh Bafna](https://github.com/harshbafnaa).
 
-This project is licensed under the MIT License.
-```
