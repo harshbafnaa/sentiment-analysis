@@ -7,7 +7,7 @@ This is a simple Python application for performing sentiment analysis on Gujarat
 1. Clone the repository:
    ```bash
    git clone https://github.com/harshbafnaa/sentiment-analysis.git
-   cd your-repo
+   cd nlp
    ```
 
 2. Create and activate a virtual environment:
