@@ -40,13 +40,17 @@ This is a simple Python application for performing sentiment analysis on Gujarat
 - `stopwords/`: Directory for custom Gujarati stopwords (replace `gujarati_stopwords.txt` with your stopwords file).
 - `model/`: Directory for trained model and TF-IDF vectorizer.
 
-## Credits
+## References
 
 - [Streamlit](https://streamlit.io/): Streamlit is used to create the web application.
 - [scikit-learn](https://scikit-learn.org/): scikit-learn is used for machine learning tasks.
 - [NLTK](https://www.nltk.org/): NLTK is used for natural language processing tasks.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+This project was created by [Harsh Bafna](https://github.com/harshbafnaa).
 
